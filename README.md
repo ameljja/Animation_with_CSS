@@ -1,3 +1,3 @@
 # for_fun
 
-Just my freaky ideas :)
+Just my ideas created with css.
